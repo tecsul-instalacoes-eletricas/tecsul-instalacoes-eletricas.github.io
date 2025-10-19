@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-logo: "/assets/icones/tecsul.png"
+logo: "/apple-touch-icon.png"
 
 title: TecSul Instalações Elétricas
 email: eletrica.tecsul@gmail.com
@@ -22,6 +22,7 @@ description: >-
 
 github_username: tecsul-instalacoes-eletricas
 minimal_mistakes_skin: contrast
+
 search: false
 
 # Build settings
